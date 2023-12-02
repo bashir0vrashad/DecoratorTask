@@ -1,0 +1,14 @@
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\bin\Debug\net6.0\DecaratorTask.exe
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\bin\Debug\net6.0\DecaratorTask.deps.json
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\bin\Debug\net6.0\DecaratorTask.runtimeconfig.json
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\bin\Debug\net6.0\DecaratorTask.dll
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\bin\Debug\net6.0\DecaratorTask.pdb
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.AssemblyInfoInputs.cache
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.AssemblyInfo.cs
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.csproj.CoreCompileInputs.cache
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.dll
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\refint\DecaratorTask.dll
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.pdb
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\DecaratorTask.genruntimeconfig.cache
+C:\Users\NITRO\source\repos\DecaratorTask\DecaratorTask\obj\Debug\net6.0\ref\DecaratorTask.dll
